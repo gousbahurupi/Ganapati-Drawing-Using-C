@@ -1,4 +1,4 @@
-# Ganesha Drawing using C
+# Divine Ganesha: A C Graphics Representation
 
 This is a simple C program to draw the image of Lord Ganesha using the graphics.h library.
 
